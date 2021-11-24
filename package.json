@@ -1,0 +1,12 @@
+{
+  "name": "ejemplo-fullstack",
+  "version": "1.0.0",
+  "description": "npm create-react-app . => pare crear un proyecto desde la carpeta en la que estoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
